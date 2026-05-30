@@ -1,5 +1,6 @@
 name: claude-via-meridian-provider
 kind: model-provider
-version: 1.0.0
+version: 1.0.1
 description: Anthropic Messages protocol against host Meridian proxy (127.0.0.1:3456)
 author: nnnet/AiManager
+repo: https://github.com/nnnet/hermes-plugin-claude-via-meridian
